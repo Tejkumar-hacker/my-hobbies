@@ -2,7 +2,7 @@
 
 A React.js application to manage hobbies with images and favourites.
 
-check out live demo: https://tejkumar-hacker.github.io/my-hobbies/
+check out live demo: [live-link](https://tejkumar-hacker.github.io/my-hobbies/)
 ---
 <img width="1096" height="714" alt="image" src="https://github.com/user-attachments/assets/b35c3ae7-b495-48f6-852c-c8a166ae3820" /></br>
 
