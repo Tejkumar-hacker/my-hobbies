@@ -3,12 +3,11 @@
 A React.js application to manage hobbies with images and favourites.
 
 ---
-<img width="1144" height="752" alt="image" src="https://github.com/user-attachments/assets/b355258e-454a-426e-947f-9c8fccc9fe90" />
+<img width="1096" height="714" alt="image" src="https://github.com/user-attachments/assets/b35c3ae7-b495-48f6-852c-c8a166ae3820" /></br>
 
-<img width="959" height="585" alt="image" src="https://github.com/user-attachments/assets/b2813520-f30c-4887-a3ed-3fbcfcf50ab0" />
+<img width="1094" height="711" alt="image" src="https://github.com/user-attachments/assets/95ec75df-f7e4-48c2-96cc-cdc683cefc72" /></br>
 
-<img width="951" height="631" alt="image" src="https://github.com/user-attachments/assets/2942f3a4-a9c3-442b-a7cc-335abc5d0ac6" />
-
+<img width="1096" height="743" alt="image" src="https://github.com/user-attachments/assets/115f1742-4fcf-44b8-9ae6-162ad27948ee" /></br>
 
 ---
 
